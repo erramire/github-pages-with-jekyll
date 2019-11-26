@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   ya vamonos para Cuba y para colombia.
 
 # social links
-twitter_username: @erramiremsft
+twitter_username: erramiremsft
 github_username:  erramire
 
 show_excerpts: true # set to false to remove excerpts on the homepage
